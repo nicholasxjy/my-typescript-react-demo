@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": false
+  },
+  "files": [
+    "app.ts",
+    "server.ts",
+    "server/routes/index.ts",
+    "webpack.config.ts"
+  ]
+}
